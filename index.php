@@ -5,7 +5,8 @@
 	
 	phpinfo();
 	
-	if ( true ) {
+	$bResult = true;
+	if ( true && $bResult == true ) {
 		echo 'yes';
 	}
 	
