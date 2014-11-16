@@ -4,4 +4,9 @@
 	}
 	
 	phpinfo();
+	
+	if ( true ) {
+		echo 'yes';
+	}
+	
 ?>
