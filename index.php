@@ -1,5 +1,5 @@
 <?php
-if ( true ) {
+if ( false ) {
 	echo 'ok';
 }
 ?>
